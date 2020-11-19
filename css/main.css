@@ -279,3 +279,20 @@ textarea {
     }
 }
 
+
+.img {
+    height: 190px;
+    
+}
+
+.img_client {
+    border-radius: 0.8rem;
+    border-color: #000;
+    height: 100px;
+    width: 200px;
+}
+
+.logo {
+    height: 95px;
+    max-width: 100%;
+}

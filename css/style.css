@@ -182,9 +182,9 @@ margin : 0;
 }
 .lft_hd img {
 float : left;
-margin-right : 30px;
-margin-top : 19px;
-width : 76px;
+margin-right : 35px;
+margin-top : 2px;
+width : 190px;
 }
 #pricing_sec {
 padding : 70px 0;
@@ -482,7 +482,7 @@ background : none 0 0 repeat scroll #f0f0f0;
 padding : 70px 0;
 }
 #tm_sec {
-padding : 70px 0;
+padding : 100px 0;
 }
 .sngl_team h3 {
 font-size : 14px;
@@ -496,7 +496,8 @@ width : 100%;
 .owl-item .sngl_team img {
 margin : 0 auto;
 text-align : center;
-width : 130px;
+width : 165px;
+border-radius: 0.8rem;
 }
 .sngl_team span {
 color : #00aff0;
